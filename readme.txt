@@ -1,3 +1,5 @@
-这是一个测试文件
+public void Test（）{
+	
+}
 
-测试第二次，添加数据
+string aa = "helllo world";
